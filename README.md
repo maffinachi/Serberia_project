@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/maffinachi/Serberia_project" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/logo-dark.png">
-      <img width="160" height="160" src="https://raw.githubusercontent.com/maffinachi/Images/refs/heads/main/wolf_logo1.jpg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maffinachi/Images/refs/heads/main/wolf_logo1.jpg?token=GHSAT0AAAAAAEKEWE4WOK3VVHNF66MHK3DQ2VVYGDA">
+      <img width="140" height="190" src="https://raw.githubusercontent.com/maffinachi/Images/refs/heads/main/wolf_logo1.jpg?token=GHSAT0AAAAAAEKEWE4WOK3VVHNF66MHK3DQ2VVYGDA">
     </picture>
   </a>
 </p>
