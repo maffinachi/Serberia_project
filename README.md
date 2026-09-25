@@ -2,7 +2,7 @@
   <a href="https://github.com/maffinachi/Serberia_project" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maffinachi/Images/refs/heads/main/wolf_logo1.jpg?token=GHSAT0AAAAAAEKEWE4WOK3VVHNF66MHK3DQ2VVYGDA">
-      <img width="1024" height="1024" src="https://raw.githubusercontent.com/maffinachi/Images/refs/heads/main/wolf_logo1.jpg?token=GHSAT0AAAAAAEKEWE4WOK3VVHNF66MHK3DQ2VVYGDA">
+      <img width="100" height="60" src="https://raw.githubusercontent.com/maffinachi/Images/refs/heads/main/wolf_logo1.jpg?token=GHSAT0AAAAAAEKEWE4WOK3VVHNF66MHK3DQ2VVYGDA">
     </picture>
   </a>
 </p>
