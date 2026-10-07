@@ -1,8 +1,15 @@
 services:
   marzban:
-    image: gozargah/marzban:latest
+    image: gozargah/marzban:dev
     restart: always
     env_file: .env
     network_mode: host
     volumes:
       - /var/lib/marzban:/var/lib/marzban
+      - ./xray_config.json:/code/xray_config.json
+      - ./app/Telegram:/app/telegram
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
